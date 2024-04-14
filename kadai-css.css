@@ -23,12 +23,14 @@ header p {
     background-color: #ccffcc;
     width: 700px;
     float: left;
+    flex: 0 0 700px; /* 固定幅 */
 }
 
 #menu {
     background-color: #ccccff;
     width: 300px;
     float: right;
+    flex: 0 0 300px; /* 固定幅 */
 }
 
 footer {
