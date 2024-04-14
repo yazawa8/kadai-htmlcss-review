@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+/* kadai-css.css */
+
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #ffcccc;
+    width: 1000px;
+}
+
+header p {
+    margin: 0;
+}
+
+#wrapper {
+    display: flex;
+}
+
+#main {
+    background-color: #ccffcc;
+    width: 700px;
+    float: left;
+}
+
+#menu {
+    background-color: #ccccff;
+    width: 300px;
+    float: right;
+}
+
+footer {
+    background-color: #ffccff;
+    width: 1000px;
+}
+
+footer p {
+    margin: 0;
+}
